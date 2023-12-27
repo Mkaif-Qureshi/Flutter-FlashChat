@@ -19,9 +19,10 @@ FlashChat is an Android Flutter-based online chat application that enables real-
 
 <img width="377" alt="image" src="https://github.com/Mkaif-Qureshi/Flutter-FlashChat/assets/86159667/7d9e135c-f5be-4b81-844b-be4a86694530">  
 
+<img width="377" alt="image" src="https://github.com/Mkaif-Qureshi/Flutter-FlashChat/assets/86159667/6d2b3542-0f6d-4181-9afa-20fd535a1970">  
+
 <img width="377" alt="image" src="https://github.com/Mkaif-Qureshi/Flutter-FlashChat/assets/86159667/4c40876f-1616-4373-a6c2-5f7a3511abc9">  
 
-![Uploading image.png…]()  
 
 
 
