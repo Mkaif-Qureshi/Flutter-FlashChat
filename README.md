@@ -14,6 +14,18 @@ FlashChat is an Android Flutter-based online chat application that enables real-
 - **Firebase**: Cloud-based platform for app development offering authentication, real-time database, and more.
 - **Dart**: Programming language used in Flutter development.
 
+
+## Glance of project
+
+<img width="377" alt="image" src="https://github.com/Mkaif-Qureshi/Flutter-FlashChat/assets/86159667/7d9e135c-f5be-4b81-844b-be4a86694530">  
+
+<img width="377" alt="image" src="https://github.com/Mkaif-Qureshi/Flutter-FlashChat/assets/86159667/4c40876f-1616-4373-a6c2-5f7a3511abc9">  
+
+![Uploading image.png…]()  
+
+
+
+
 ## Installation 🧑‍🔧
 
 To run this application locally:
@@ -37,5 +49,5 @@ We welcome contributions to enhance FlashChat! To contribute:
 ## Credits ✨
 
 - Created by M.Kaif Qureshi
-- Inspiration: Angela Yu [App Brewery]
+- Inspiration: Angela Yu
 
